@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ohne-dich-sterbe-ich/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ohne dich sterbe ich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ohne-dich-sterbe-ich/) |
+| **Get License** | [Obtain a Music License for Ohne dich sterbe ich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ohne-dich-sterbe-ich/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ohne dich sterbe ich, Baby, das weißt du
+> Mein Herz pumpt den Beat und ich atme für zwei, boo
+> Die Lichter der City sind kalt ohne dich
+> Komm nah an mich ran, Baby, fühlst du es nicht?
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
