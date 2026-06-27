@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ohne-dich-sterbe-ich/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ohne dich sterbe ich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ohne-dich-sterbe-ich/) |
+| **Get License** | [License this song: Ohne dich sterbe ich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ohne-dich-sterbe-ich/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9b7cd88513d360185ded04f1043f5101a2ea169d0d61c7996ec4b6240b5537d9` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

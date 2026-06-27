@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ohne dich sterbe ich
+
+This log tracks the cryptographic history and versioning for the song **Ohne dich sterbe ich** (ohne-dich-sterbe-ich).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:55:18.573531 | `v1` | `9b7cd88513d360185ded04f1043f5101a2ea169d0d61c7996ec4b6240b5537d9` | `d7b9f1346e6a10505e9a06703f8cfc9d8d5c42066fdc42ed8d97fcfac7198edf` | `2026-06-27_ohne-dich-sterbe-ich-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
